@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-22T19:47:10 IST" name="Default suite" finished-at="2020-03-22T19:47:53 IST" duration-ms="42979">
+    <groups>
+    </groups>
+    <test started-at="2020-03-22T19:47:10 IST" name="Default test" finished-at="2020-03-22T19:47:53 IST" duration-ms="42979">
+      <class name="demo.survey.s2cRegression">
+        <test-method is-config="true" signature="initialiseAll()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:00 IST" name="initialiseAll" finished-at="2020-03-22T19:47:10 IST" duration-ms="10190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialiseAll -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:10 IST" name="launch" finished-at="2020-03-22T19:47:27 IST" duration-ms="16828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="checkPreviousButtton()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:27 IST" name="checkPreviousButtton" finished-at="2020-03-22T19:47:29 IST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPreviousButtton -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:29 IST" name="launch" finished-at="2020-03-22T19:47:31 IST" duration-ms="2215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="checkTitle()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:31 IST" name="checkTitle" finished-at="2020-03-22T19:47:31 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTitle -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:31 IST" name="launch" finished-at="2020-03-22T19:47:33 IST" duration-ms="2176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="submitFormNegative(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:33 IST" name="submitFormNegative" data-provider="NegativeValidation" finished-at="2020-03-22T19:47:33 IST" duration-ms="231" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormNegative -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:33 IST" name="launch" finished-at="2020-03-22T19:47:36 IST" duration-ms="2174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="submitFormNegative(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:36 IST" name="submitFormNegative" data-provider="NegativeValidation" finished-at="2020-03-22T19:47:37 IST" duration-ms="1382" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormNegative -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:37 IST" name="launch" finished-at="2020-03-22T19:47:39 IST" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="submitFormNegative(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:39 IST" name="submitFormNegative" data-provider="NegativeValidation" finished-at="2020-03-22T19:47:42 IST" duration-ms="2637" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[not satisfied]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormNegative -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:42 IST" name="launch" finished-at="2020-03-22T19:47:44 IST" duration-ms="2169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="submitFormPositive(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:44 IST" name="submitFormPositive" data-provider="PositiveValidation" finished-at="2020-03-22T19:47:47 IST" duration-ms="3586" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jaipur]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormPositive -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:47 IST" name="launch" finished-at="2020-03-22T19:47:50 IST" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="submitFormPositive(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:50 IST" name="submitFormPositive" data-provider="PositiveValidation" finished-at="2020-03-22T19:47:53 IST" duration-ms="3324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[not satisfied]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Delhi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormPositive -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demo.survey.s2cRegression@35d019a3]" started-at="2020-03-22T19:47:53 IST" name="teardown" finished-at="2020-03-22T19:47:54 IST" duration-ms="637" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demo.survey.s2cRegression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
